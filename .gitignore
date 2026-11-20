@@ -1,0 +1,8 @@
+data/
+*_boubou*
+PLAN.md
+CLAUDE.md
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.db
